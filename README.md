@@ -30,9 +30,9 @@ I'm an aspiring **DevOps Engineer** passionate about automating infrastructure, 
 - AWS DevOps practices
 
 ### 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](mailto:manovikas41@gmail.com)
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
+
 
 ---
 
